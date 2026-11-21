@@ -1,0 +1,6 @@
+{
+  "name": "NEON STRIKE",
+  "description": "Competitive browser-based online multiplayer 3D FPS arena shooter built with Three.js and WebSockets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
